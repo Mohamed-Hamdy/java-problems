@@ -43,18 +43,18 @@
       </ul>
     </li>
     <li>
-      <a href="#OOP">C++ Data Structures Problems</a>
+      <a href="#Operating System">Operating System Problems</a>
       <ul>
-        <li><a href="#problem_8">Group One</a></li>
+        <li><a href="#problem_12">Command Line Interpteter</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_9">Group Two</a></li>
+        <li><a href="#problem_13">Java Synchronization and Threading</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_10">Group Three</a></li>
+        <li><a href="#problem_14">CPU Schedulers Simulator</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_11">Group Four</a></li>
+        <li><a href="#problem_15">AG Technique</a></li>
       </ul>
     </li>
     <li>
@@ -184,66 +184,49 @@ Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) 
 <hr>
 
 ### problem_12
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Files%20Problems">files operations.</a></h3>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Files%20Problems/ASS_1_add%20delete%20update%20data%20file.cpp">Problems Functions</a>
-1-	add data.<br>
-2-	delete data.<br>
-3-	update data.<br>
-4-	display data.<br>
+<h3>Command Line Interpteter</h3>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Operating%20System/Command%20Line%20Interpteter/Assignment%201%20-%20Command%20Line%20Interpteter.pdf">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Operating%20System/Command%20Line%20Interpteter">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
-
-
-
+ 
 ### problem_13
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Files%20Problems">books library using files.</a></h3>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Files%20Problems/ASS_2%20books%20library%20using%20files.cpp">Problem Functions</a>
-
-1-	add book.<br>
-2-	search for book.<br>
-3-	read book using cin operator overloading.<br>
-4-	save book using cout operator overloading.<br>
-5-	delete Book.<br>
-6-	display book.<br>
+<h3>Java Synchronization and Threading</h3>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Operating%20System/Java%20Synchronization%20and%20Threading/Assignment%202%20-%20Java%20Synchronization%20and%20Threading.pdf">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Operating%20System/Java%20Synchronization%20and%20Threading">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
 
 ### problem_14
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Files%20Problems">program for Courses operations.</a></h3>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Files%20Problems/ASS_3_program%20for%20Courses.cpp">Problem Functions</a>
-
-1-	add Course.<br>
-2-	Print Course by ID.<br>
-3-	Print Course by Name.<br>
-4-	Delete Course by ID.<br>
-5-	Delete Course by Name.<br>
-6-	Updata Course by ID.<br>
-7-	Updata Course by Name.<br>
-8-	Search for Course using ID.<br>
-9-	Search for Course using Name.<br>
-10-	search for book.<br>
-11-	Save Course info in file.<br>
-12-	load Course Data From file.<br>
+<h3>CPU Schedulers Simulator</h3>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Operating%20System/CPU%20Schedulers%20Simulator/Assignment%203%20-%20CPU%20Schedulers%20Simulator.pdf">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Operating%20System/CPU%20Schedulers%20Simulator">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
+ 
+### problem_15
+<h3>AG Technique</h3>
+<h4><a href="https://www.baeldung.com/java-greedy-algorithms">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Operating%20System/AG%20Technique">
+  algorithm Code</a></h3>
 
+<br>Problem Team Members :<br>
+Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
+Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
 
-       
+<hr>
