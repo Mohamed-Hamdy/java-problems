@@ -58,12 +58,12 @@
       </ul>
     </li>
     <li>
-      <a href="#Sockets Programming">Sockets Programming</a>
+      <a href="#Sockets Programming">Sockets Programming Projects</a>
       <ul>
         <li><a href="#problem_16">Online-Text-Editor</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_13">books library using files</a></li>
+        <li><a href="#problem_17">Http-Server-Sockets</a></li>
       </ul>
       <ul>
         <li><a href="#problem_14">program for Courses operations</a></li>
@@ -246,5 +246,33 @@ Java Socket programming project that allow users to use same text editor and sha
 * Changing in same text concurrently will be considered as an extra function. 
 * Multiple texts can be shared concurrently between the same clients or between different clients. 
 
+<h4>How to Run</h4>
+* 1- First Run the Server file 
+* 2- Run the Client file 
+* 3- the program will show the text editor in client side 
 <h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Online-Text-Editor">Project Code</a></h3>
+<hr>
+
+
+### problem_17
+<h3>Http-Server-Sockets</h3>
+
+problem Decription:
+Java Socket programming project that allow users to use same text editor and share any edit concurrently if they connect to same server.
+* One class for server, and one for client. The client will be run multiple of times.  
+* Any client can request from the server to share some text with some other clients. 
+* The server sends this text to the intended clients.    
+* The text appears to each client on its console
+* Any client can change in the shared text and this change will be send to server that will send it to all other clients sharing the same text. And then appears to their consoles. 
+* Changing in same text concurrently will be considered as an extra function. 
+* Multiple texts can be shared concurrently between the same clients or between different clients. 
+
+<h4>How to Run</h4>
+* 1- First Run the Server file 
+* 2- Run the Client file 
+* 3- open your browser 
+* 4- Enter http://localhost:8080 in url 
+* 5- the veggia template will display on server side 
+
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Http-Server-Sockets">Project Code</a></h3>
 <hr>
