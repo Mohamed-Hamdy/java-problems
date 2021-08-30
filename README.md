@@ -84,21 +84,21 @@ there is decription file for each problem, it explain details of each problem ex
 ### problem_1
 <h3>LZ78 Algorithm</h3>
 <h4><a href="https://www.slideserve.com/keelia/lempel-ziv-compression-techniques">Explanation of the algorithm with steps</a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">algorithm Code</a>:</h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/LZ78%20Algorithm">algorithm Code</a>:</h4>
 <hr>
 
 ### problem_2
 <h3>LZ88 Algorithm</h3>
 
 <h4><a href="https://www.ijesit.com/Volume%204/Issue%203/IJESIT201503_06.pdf">Explanation of the algorithm with steps </a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/LZ88%20Algorithm">
   algorithm Code</a>:</h4>
 <hr>
 
 ### problem_3
 <h3>LZW Algorithm</h3>
 <h4><a href="https://www.youtube.com/watch?v=8uFqfZOiwMc">Explanation of the algorithm with steps</a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/LZW%20Algorithm">
   algorithm Code</a>:</h4>
 
 <hr>
@@ -106,7 +106,7 @@ there is decription file for each problem, it explain details of each problem ex
 ### problem_4
 <h3>Adaptive Huffman Algorithm</h3>
 <h4><a href="https://www.youtube.com/watch?v=8uFqfZOiwMc">Explanation of the algorithm with steps</a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Adaptive%20Huffman%20Algorithm">
   algorithm Code</a>:</h4>
 
 <hr>
@@ -114,7 +114,7 @@ there is decription file for each problem, it explain details of each problem ex
 ### problem_5
 <h3>Arithmetic Coding Floating Point Algorithm</h3>
 <h4><a href="https://www.youtube.com/watch?v=vcCTihKOHXg">Explanation of the algorithm with steps</a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Arithmetic%20Coding%20Floating%20Point%20Algorithm">
   algorithm Code</a>:</h4>
 
 <hr>
@@ -122,14 +122,14 @@ there is decription file for each problem, it explain details of each problem ex
 <h3>StanderHuffman Algorithm</h3>
 
 <h4><a href="https://www.programiz.com/dsa/huffman-coding">Explanation of the algorithm with steps</a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20General%20%20Problems/Problem%202%20GrayScale%20and%20RGB%20Images%20Filters/grayscale%20and%20RGB%20General_code.cpp">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/StanderHuffman%20Algorithm">
   algorithm Code</a>:</h4>
 
 <hr>
 ### problem_7
 <h3>Vector Quantization Algorithm</h3>
 <h4><a href="https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_learning_vector_quantization.htm">Explanation of the algorithm with steps</a>:</h4>
-<h4><a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20OOP%20Problems/problem%207%20DNA%20RNA%20Protein%20Converter/main.cpp">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
   algorithm Code</a></h3>
   
 <hr>
