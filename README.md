@@ -28,18 +28,18 @@
       </ul>
     </li>
     <li>
-      <a href="#OOP">C++ OOP Problems</a>
+      <a href="#Secuirty">Secuirty Algorithms</a>
       <ul>
-        <li><a href="#problem_4">problem 4 Matrix Operations</a></li>
+        <li><a href="#problem_8">problem 8 Caesar Cipher</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_5">problem 5 vending machine simulator</a></li>
+        <li><a href="#problem_9">problem 9 LFSR Algorithm</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_6">problem 6 BigDecmal Operations</a></li>
+        <li><a href="#problem_10">problem 10 DES Algorithm</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_7">problem 7 DNA RNA Protein Converter</a></li>
+        <li><a href="#problem_11">problem 11 AES Algorithm</a></li>
       </ul>
     </li>
     <li>
@@ -135,78 +135,52 @@ there is decription file for each problem, it explain details of each problem ex
 <hr>
 
 ### problem_8
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20One">Group One</a></h3>
-
-1-	BigDecimal operators.<br>
-2-	Fraction Calculator .<br>
-3-	Matrix Calculator .<br>
-4-	find a to the power n(a power n) using recursive.<br>
-5-	ListPermutations .<br>
-6-	replace Names.<br>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20One/CS214_Assignment1.pdf">
-  Group One Problems Description pdf</a>
+<h3>Caesar Cipher</h3>
+<h4><a href="https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
 
 ### problem_9
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20Two">Group Two</a></h3>
+<h3>LFSR Algorithm</h3>
 
-1-	STL algorithms.<br>
-2-	STL Map.<br>
-3-	binary Search.<br>
-4-	S1, S2, S3 are the length sides of triangle.<br>
-5-	Merge and Quick sorts.<br>
-6-	Insertion sort uses linear search.<br>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20Two/CS214-Assignment2%20-%202019.pdf">
-  Group Two Problems Description pdf</a>
+<h4><a href="https://www.youtube.com/watch?v=QbTedKVxdyU">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
 
 ### problem_10
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20Three">Group Three</a></h3>
-
-1-	Linked lists Using STL list.<br>
-2-	Linked lists Using Stack.<br>
-3-	STL stack .<br>
-4-	is Palindrome .<br>
-5-	Queues .<br>
-6-	Priority Queue .<br>
-7-	STL queue .<br>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20Three/CS214-Assignment3-2019.pdf">
-  Group Three Problems Description pdf</a>
+<h3>DES Algorithm</h3>
+<h4><a href="https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
 
 <hr>
  
 ### problem_11
-<h3><a href="https://github.com/MGMK/C-plus-plus-Problems/tree/main/C%2B%2B%20Data%20Structures/Group%20Four">Group Four</a></h3>
-
-1-	Tree Operations.<br>
-
-<a href="https://github.com/MGMK/C-plus-plus-Problems/blob/main/C%2B%2B%20Data%20Structures/Group%20Four/Assignment%204.pdf">
-  Group Four Problems Description pdf</a>
+<h3>AES Algorithm</h3>
+<h4><a href="https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm">Explanation of the algorithm with steps</a></h4>
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+  algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-Mahmoud Magdy - [@LinkedIn](https://www.linkedin.com/in/mahmoud-magdy-669861206/) - LinkedIn
+
 
 <hr>
 
