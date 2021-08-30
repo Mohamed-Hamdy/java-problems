@@ -252,7 +252,7 @@ Java Socket programming project that allow users to use same text editor and sha
 * 3- the program will show the text editor in client side 
 
 <h4>Project Gui</h4>
-<img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Http-Server-Sockets/project%20gui.png" alt="Project Gui">
+<img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Online%20Text%20Editor/project%20gui.png" alt="Project Gui">
 
 <h4><a href="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Online%20Text%20Editor/project%20gui.png">Project Code</a></h3>
 <hr>
