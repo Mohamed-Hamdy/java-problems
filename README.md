@@ -30,16 +30,16 @@
     <li>
       <a href="#Secuirty">Secuirty Algorithms</a>
       <ul>
-        <li><a href="#problem_8">problem 8 Caesar Cipher</a></li>
+        <li><a href="#problem_8">Algorithm 8 Caesar Cipher</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_9">problem 9 LFSR Algorithm</a></li>
+        <li><a href="#problem_9">Algorithm 9 LFSR Algorithm</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_10">problem 10 DES Algorithm</a></li>
+        <li><a href="#problem_10">Algorithm 10 DES Algorithm</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_11">problem 11 AES Algorithm</a></li>
+        <li><a href="#problem_11">Algorithm 11 AES Algorithm</a></li>
       </ul>
     </li>
     <li>
@@ -137,7 +137,7 @@ there is decription file for each problem, it explain details of each problem ex
 ### problem_8
 <h3>Caesar Cipher</h3>
 <h4><a href="https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/">Explanation of the algorithm with steps</a></h4>
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Secuirty/Caesar%20Cipher">
   algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
@@ -150,7 +150,7 @@ Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) 
 <h3>LFSR Algorithm</h3>
 
 <h4><a href="https://www.youtube.com/watch?v=QbTedKVxdyU">Explanation of the algorithm with steps</a></h4>
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Secuirty/LFSR%20Algorithm">
   algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
@@ -162,7 +162,7 @@ Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) 
 ### problem_10
 <h3>DES Algorithm</h3>
 <h4><a href="https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/">Explanation of the algorithm with steps</a></h4>
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Secuirty/DES%20Algorithm">
   algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
@@ -174,13 +174,12 @@ Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) 
 ### problem_11
 <h3>AES Algorithm</h3>
 <h4><a href="https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm">Explanation of the algorithm with steps</a></h4>
-<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Multimedia%20Algorithms/Vector%20Quantization%20Algorithm">
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Secuirty/AES%20Algorithm">
   algorithm Code</a></h3>
 
 <br>Problem Team Members :<br>
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
-
 
 <hr>
 
