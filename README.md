@@ -296,5 +296,10 @@ Java Socket programming project that allow users to use same text editor and sha
 * 2- Run the Client file 
 * 3- run EmailClientcomposeMessage
 
+<h4>Project Gui</h4>
+<img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Email-Server/1.png" alt="Project Gui">
+
 <h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Email-Server">Project Code</a></h3>
+
+
 <hr>
