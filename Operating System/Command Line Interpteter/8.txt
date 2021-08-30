@@ -1,0 +1,12 @@
+pwd 
+help
+clear
+date
+args space nameofcommand   --> like this --> args pwd , args cd 
+cd space nameofpath --> like this --> cd E:\ , cd F:\
+if you want to return to orignal path write --> cd only --> cd
+cat any number of file name put space --> cat 123.txt 8.txt 9.txt (it will read file contain)
+cat > 123.txt --> will craete file 
+cat 123.txt >> 8.txt ------------> i will append 8.txt date in 123.txt date
+cat 123.txt > 8.txt ------------> i will copy 123.txt date and clear 8.txt date then put 123.txt date 
+rm 
