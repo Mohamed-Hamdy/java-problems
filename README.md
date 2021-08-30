@@ -58,9 +58,9 @@
       </ul>
     </li>
     <li>
-      <a href="#OOP">C++ Files Problems</a>
+      <a href="#Sockets Programming">Sockets Programming</a>
       <ul>
-        <li><a href="#problem_12">files operations.</a></li>
+        <li><a href="#problem_16">Online-Text-Editor</a></li>
       </ul>
       <ul>
         <li><a href="#problem_13">books library using files</a></li>
@@ -229,4 +229,22 @@ Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) 
 Mohamed Hamdy - [@LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-0155b2173/) - LinkedIn<br>
 Ahmad Gomaa   - [@LinkedIn](https://www.linkedin.com/in/ahmad-gomma-3873441aa/) - LinkedIn<br>
 
+<hr>
+
+
+
+### problem_16
+<h3>Online Text Editor</h3>
+
+problem Decription:
+Java Socket programming project that allow users to use same text editor and share any edit concurrently if they connect to same server.
+* One class for server, and one for client. The client will be run multiple of times.  
+* Any client can request from the server to share some text with some other clients. 
+* The server sends this text to the intended clients.    
+* The text appears to each client on its console
+* Any client can change in the shared text and this change will be send to server that will send it to all other clients sharing the same text. And then appears to their consoles. 
+* Changing in same text concurrently will be considered as an extra function. 
+* Multiple texts can be shared concurrently between the same clients or between different clients. 
+
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Online-Text-Editor">Project Code</a></h3>
 <hr>
