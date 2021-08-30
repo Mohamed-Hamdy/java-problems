@@ -66,7 +66,7 @@
         <li><a href="#problem_17">Http-Server-Sockets</a></li>
       </ul>
       <ul>
-        <li><a href="#problem_14">program for Courses operations</a></li>
+        <li><a href="#problem_18">Email Server</a></li>
       </ul>
      </li>
     
@@ -275,4 +275,26 @@ Java Socket programming project that allow users to use same text editor and sha
 * 5- the veggia template will display on server side 
 
 <h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Http-Server-Sockets">Project Code</a></h3>
+<hr>
+
+
+### problem_18
+<h3>Email Server</h3>
+
+problem Decription:
+Java Socket programming project that allow users to use same text editor and share any edit concurrently if they connect to same server.
+* Any client can send an email to multiple connected clients
+* The email content which is (From, To, Subject, Body) is sent to the server. 
+* The server forwards the email content to all the intended clients.    
+* Server saves all the mails for all connected clients in its memory
+* Each connected client can request from the server to show all its emails. 
+* Sending to offline clients will be considered as an extra function. 
+* Mark email as spam, and block any client will be considered as extra functions.  
+
+<h4>How to Run</h4>
+* 1- First Run the Server file 
+* 2- Run the Client file 
+* 3- run EmailClientcomposeMessage
+
+<h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Email-Server">Project Code</a></h3>
 <hr>
