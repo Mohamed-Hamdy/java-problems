@@ -268,11 +268,11 @@ Java Socket programming project that allow users to use same text editor and sha
 * Multiple texts can be shared concurrently between the same clients or between different clients. 
 
 <h4>How to Run</h4>
-* 1- First Run the Server file 
-* 2- Run the Client file 
-* 3- open your browser 
-* 4- Enter http://localhost:8080 in url 
-* 5- the veggia template will display on server side 
+* 1. First Run the Server file 
+* 2. Run the Client file 
+* 3. open your browser 
+* 4. Enter http://localhost:8080 in url 
+* 5. the veggia template will display on server side 
 
 <h4><a href="https://github.com/Mohamed-Hamdy/java-problems/tree/main/Sockets%20Programming/Http-Server-Sockets">Project Code</a></h3>
 <hr>
@@ -292,9 +292,9 @@ Java Socket programming project that allow users to use same text editor and sha
 * Mark email as spam, and block any client will be considered as extra functions.  
 
 <h4>How to Run</h4>
-* 1- First Run the Server file 
-* 2- Run the Client file 
-* 3- run EmailClientcomposeMessage
+* 1. First Run the Server file 
+* 2. Run the Client file 
+* 3. run EmailClientcomposeMessage
 
 <h4>Project Gui</h4>
 <img src="https://github.com/Mohamed-Hamdy/java-problems/blob/main/Sockets%20Programming/Email-Server/1.png" alt="Project Gui">
